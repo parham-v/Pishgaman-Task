@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/components/modules/LoginForm/LoginForm.js", "tailwind.config.ts", "src/components/templates/map/LeafletMap/LeafletMap.jsx", "src/components/modules/SearchResultBox/SearchResultBox.jsx", "src/components/modules/SearchResultItem/SearchResultItem.jsx", "src/app/map/page.tsx"],
+  "exclude": ["node_modules"]
+}
