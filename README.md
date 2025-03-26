@@ -6,4 +6,4 @@ Run tutorial :
 
 1. npm i
 2. npm run dev
-3. open localhost:3000 in browser
+3. Open "localhost:3000" in browser
