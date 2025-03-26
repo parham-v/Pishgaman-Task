@@ -1,7 +1,7 @@
 This is a test task for Pishgaman Co.
-This project built with Next.js (TypeScript) + tailwind and use various packages like: react-hot-toast and axios.
-Global state-management use context-api.
--------------------------------------------
+This project built with Next.js (TypeScript) + Tailwind and use various packages like: react-hot-toast, axios, leaflet, react-leaflet.
+Global state-management used context-api.
+
 Run tutorial :
 
 1. npm i
