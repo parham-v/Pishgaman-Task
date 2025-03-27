@@ -1,9 +1,13 @@
-This is a test task for Pishgaman Co.
-This project built with Next.js (TypeScript) + Tailwind and use various packages like: react-hot-toast, axios, leaflet, react-leaflet.
-Global state-management used context-api.
+# Introduction
+<p>
+This is a <b>test</b> task for Pishgaman Co.<br>
+This project built with Next.js & Tailwind.<br>
+Global state-management handled with Context-Api.
+</p>
 
-Run tutorial :
+___
 
-1. npm i
-2. npm run dev
-3. Open "localhost:3000" in browser
+## Installation
+1. Download project and run `npm install`.
+2. Then run `npm run dev`.
+3. Open `localhost:3000` in browser.
